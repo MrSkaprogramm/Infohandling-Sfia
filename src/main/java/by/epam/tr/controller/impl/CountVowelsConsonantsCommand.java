@@ -23,4 +23,5 @@ public class CountVowelsConsonantsCommand implements Command {
     }
     return response;
   }
+
 }
